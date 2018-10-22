@@ -29,7 +29,7 @@ def ban():
             %s  .####.  %s .#####:   ##.###:     ###.##  ## ## ##
                                  ##
               Author : [M]iZun0  ##  Team : BlackHole Security
-              Github/sushiroku1  ##  Version : 1.1.0
+              Github/sushiroku1  ##  Version : 1.2.0
               
                        
       %s"""% (lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,lRed,lGreen,white)
